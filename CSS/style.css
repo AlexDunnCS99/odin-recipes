@@ -1,0 +1,16 @@
+a{
+    color: chartreuse;
+    background-color: white;
+}
+
+body{
+    background-color:red;
+    font-family: monospace; 
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+}
+.highlight{
+    background-color: white;
+    color: tan;
+}
